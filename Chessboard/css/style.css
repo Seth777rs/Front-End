@@ -1,0 +1,18 @@
+   html, body{
+    background-color: rgb(97, 54, 25);  
+    font-size: large;
+    font-family: fantasy;
+    font-weight: 600;
+   }
+   
+   .preto{
+        background-color: black;
+        width: 100px;
+        height: 100px;
+    }
+
+    .branco{
+        background-color: white;
+        width: 100px;
+        height: 100px;
+    }
